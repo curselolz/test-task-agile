@@ -1,0 +1,469 @@
+:::: Log File ::::
+
+
+[2/9/2020 -- 13:27]  Info task started
+[2/9/2020 -- 14:48]  Info task started
+[2/9/2020 -- 14:56]  restarted!
+[2/9/2020 -- 14:56]  restarted!
+[2/9/2020 -- 14:56]  restarted!
+[2/9/2020 -- 14:57]  restarted!
+[2/9/2020 -- 14:58]  restarted!
+[2/9/2020 -- 15:23]  Info task started
+[2/9/2020 -- 15:24]  restarted!
+[2/9/2020 -- 15:29]  restarted!
+[2/9/2020 -- 15:29]  restarted!
+[2/9/2020 -- 15:33]  Info task started
+[2/9/2020 -- 15:34]  Scripts ran on main.js
+[2/9/2020 -- 15:35]  restarted!
+[2/9/2020 -- 15:36]  Scripts ran on main.js
+[2/9/2020 -- 15:37]  restarted!
+[2/9/2020 -- 15:37]  Scripts ran on main.js
+[2/9/2020 -- 15:37]  Scripts ran on main.js
+[2/9/2020 -- 15:38]  Scripts ran on main.js
+[2/9/2020 -- 15:38]  Scripts ran on main.js
+[2/9/2020 -- 16:25]  Info task started
+[2/9/2020 -- 16:30]  Scripts ran on main.js
+[2/9/2020 -- 16:30]  Scripts ran on main.js
+[2/9/2020 -- 16:31]  Scripts ran on main.js
+[2/9/2020 -- 16:31]  Info task started
+[2/9/2020 -- 16:32]  Scripts ran on main.js
+[2/9/2020 -- 16:35]  Scripts ran on main.js
+[2/9/2020 -- 16:37]  Info task started
+[2/9/2020 -- 16:41]  Info task started
+[2/9/2020 -- 16:42]  Scripts ran on main.js
+[2/9/2020 -- 16:49]  Scripts ran on main.js
+[2/9/2020 -- 16:49]  Scripts ran on main.js
+[2/9/2020 -- 16:50]  Scripts ran on main.js
+[2/9/2020 -- 17:50]  Scripts ran on main.js
+[2/9/2020 -- 17:50]  Info task started
+[2/9/2020 -- 17:51]  Scripts ran on main.js
+[2/9/2020 -- 17:52]  Scripts ran on main.js
+[2/9/2020 -- 17:52]  Scripts ran on main.js
+[2/9/2020 -- 17:52]  Scripts ran on main.js
+[2/9/2020 -- 17:52]  Scripts ran on main.js
+[2/9/2020 -- 17:53]  Scripts ran on main.js
+[2/9/2020 -- 17:53]  Scripts ran on main.js
+[2/9/2020 -- 17:53]  Scripts ran on main.js
+[2/9/2020 -- 17:55]  Info task started
+[2/9/2020 -- 17:58]  Info task started
+[2/9/2020 -- 18:0]  Scripts ran on main.js
+[2/9/2020 -- 18:0]  Scripts ran on main.js
+[2/9/2020 -- 18:8]  Info task started
+[2/9/2020 -- 18:16]  Scripts ran on main.js
+[2/9/2020 -- 18:16]  Scripts ran on main.js
+[2/9/2020 -- 18:16]  Scripts ran on main.js
+[2/9/2020 -- 18:17]  Scripts ran on main.js
+[2/9/2020 -- 18:18]  Scripts ran on main.js
+[2/9/2020 -- 18:18]  Scripts ran on main.js
+[2/9/2020 -- 18:18]  Scripts ran on main.js
+[2/9/2020 -- 18:19]  Scripts ran on main.js
+[2/9/2020 -- 18:19]  Scripts ran on main.js
+[2/9/2020 -- 18:21]  Scripts ran on main.js
+[2/9/2020 -- 18:21]  Scripts ran on main.js
+[2/9/2020 -- 18:21]  Scripts ran on main.js
+[2/9/2020 -- 18:23]  Scripts ran on main.js
+[2/9/2020 -- 18:23]  Scripts ran on main.js
+[2/9/2020 -- 18:24]  Scripts ran on main.js
+[2/9/2020 -- 18:24]  Scripts ran on main.js
+[2/9/2020 -- 18:25]  Scripts ran on main.js
+[2/9/2020 -- 18:26]  Scripts ran on main.js
+[2/9/2020 -- 18:26]  Scripts ran on main.js
+[2/9/2020 -- 18:26]  Scripts ran on main.js
+[2/9/2020 -- 18:29]  Scripts ran on main.js
+[2/9/2020 -- 18:30]  Scripts ran on main.js
+[2/9/2020 -- 18:30]  Scripts ran on main.js
+[2/9/2020 -- 18:30]  Scripts ran on main.js
+[2/9/2020 -- 18:31]  Scripts ran on main.js
+[2/9/2020 -- 18:32]  Scripts ran on main.js
+[2/9/2020 -- 18:33]  Scripts ran on main.js
+[2/9/2020 -- 18:42]  Info task started
+[2/9/2020 -- 18:43]  Scripts ran on main.js
+[2/9/2020 -- 18:43]  Scripts ran on main.js
+[2/9/2020 -- 18:44]  Scripts ran on main.js
+[2/9/2020 -- 18:44]  Scripts ran on main.js
+[2/9/2020 -- 18:45]  Scripts ran on main.js
+[2/9/2020 -- 18:45]  Scripts ran on main.js
+[2/9/2020 -- 18:45]  Scripts ran on main.js
+[2/9/2020 -- 18:46]  Scripts ran on main.js
+[2/9/2020 -- 18:46]  Scripts ran on main.js
+[2/9/2020 -- 18:46]  Scripts ran on main.js
+[2/9/2020 -- 18:46]  Scripts ran on main.js
+[2/9/2020 -- 18:47]  Scripts ran on main.js
+[2/9/2020 -- 19:16]  Scripts ran on main.js
+[2/9/2020 -- 19:16]  Scripts ran on main.js
+[2/9/2020 -- 19:17]  Scripts ran on main.js
+[2/9/2020 -- 19:17]  Scripts ran on main.js
+[2/9/2020 -- 19:17]  Scripts ran on main.js
+[2/9/2020 -- 19:18]  Scripts ran on main.js
+[2/9/2020 -- 19:18]  Scripts ran on main.js
+[2/9/2020 -- 19:19]  Scripts ran on main.js
+[2/9/2020 -- 19:19]  Scripts ran on main.js
+[2/9/2020 -- 19:19]  Scripts ran on main.js
+[2/9/2020 -- 19:19]  Scripts ran on main.js
+[2/9/2020 -- 19:19]  Scripts ran on main.js
+[2/9/2020 -- 19:20]  Scripts ran on main.js
+[2/9/2020 -- 19:21]  Scripts ran on main.js
+[2/9/2020 -- 19:21]  Scripts ran on main.js
+[2/9/2020 -- 19:21]  Scripts ran on main.js
+[2/9/2020 -- 19:21]  Scripts ran on main.js
+[2/9/2020 -- 19:23]  Scripts ran on main.js
+[2/9/2020 -- 19:23]  Scripts ran on main.js
+[2/9/2020 -- 19:23]  Scripts ran on main.js
+[2/9/2020 -- 19:24]  Scripts ran on main.js
+[2/9/2020 -- 19:24]  Scripts ran on main.js
+[2/9/2020 -- 19:26]  Sass ran on files
+[2/9/2020 -- 19:26]  Scripts ran on main.js
+[2/9/2020 -- 19:28]  Scripts ran on main.js
+[2/9/2020 -- 19:29]  Scripts ran on main.js
+[2/9/2020 -- 19:31]  Scripts ran on main.js
+[2/9/2020 -- 19:31]  Scripts ran on main.js
+[2/9/2020 -- 19:31]  Scripts ran on main.js
+[2/9/2020 -- 19:31]  Scripts ran on main.js
+[2/9/2020 -- 19:31]  Scripts ran on main.js
+[2/9/2020 -- 19:32]  Scripts ran on main.js
+[2/9/2020 -- 19:32]  Scripts ran on main.js
+[2/9/2020 -- 19:42]  restarted!
+[2/9/2020 -- 19:47]  Scripts ran on main.js
+[2/9/2020 -- 19:47]  Scripts ran on main.js
+[2/9/2020 -- 19:58]  Scripts ran on main.js
+[2/9/2020 -- 20:0]  Scripts ran on main.js
+[2/9/2020 -- 20:0]  Scripts ran on main.js
+[2/9/2020 -- 20:0]  Scripts ran on main.js
+[2/9/2020 -- 20:1]  Scripts ran on main.js
+[2/9/2020 -- 20:1]  Scripts ran on main.js
+[2/9/2020 -- 20:4]  Scripts ran on main.js
+[2/9/2020 -- 20:5]  Scripts ran on main.js
+[2/9/2020 -- 20:6]  restarted!
+[2/9/2020 -- 20:8]  Scripts ran on main.js
+[2/9/2020 -- 20:8]  Info task started
+[2/9/2020 -- 20:9]  Scripts ran on main.js
+[2/9/2020 -- 20:9]  restarted!
+[2/9/2020 -- 20:9]  restarted!
+[2/9/2020 -- 20:9]  restarted!
+[2/9/2020 -- 20:10]  restarted!
+[2/9/2020 -- 20:13]  restarted!
+[2/9/2020 -- 20:13]  restarted!
+[2/9/2020 -- 20:13]  restarted!
+[2/9/2020 -- 20:14]  restarted!
+[2/9/2020 -- 20:14]  restarted!
+[2/9/2020 -- 20:14]  restarted!
+[2/9/2020 -- 20:15]  restarted!
+[2/9/2020 -- 20:15]  restarted!
+[2/9/2020 -- 20:15]  Scripts ran on main.js
+[2/9/2020 -- 20:16]  restarted!
+[2/9/2020 -- 20:16]  restarted!
+[2/9/2020 -- 20:18]  Scripts ran on main.js
+[2/9/2020 -- 20:18]  Scripts ran on main.js
+[2/9/2020 -- 20:19]  Scripts ran on main.js
+[2/9/2020 -- 20:20]  Scripts ran on main.js
+[2/9/2020 -- 20:20]  Scripts ran on main.js
+[2/9/2020 -- 20:21]  Scripts ran on main.js
+[2/9/2020 -- 20:22]  Scripts ran on main.js
+[2/9/2020 -- 20:22]  Scripts ran on main.js
+[2/9/2020 -- 20:22]  Scripts ran on main.js
+[2/9/2020 -- 20:23]  Scripts ran on main.js
+[2/9/2020 -- 20:25]  Scripts ran on main.js
+[2/9/2020 -- 20:28]  Scripts ran on main.js
+[2/9/2020 -- 20:28]  Scripts ran on main.js
+[2/9/2020 -- 20:29]  Scripts ran on main.js
+[2/9/2020 -- 20:30]  restarted!
+[2/9/2020 -- 20:30]  restarted!
+[2/9/2020 -- 20:31]  Info task started
+[2/9/2020 -- 20:31]  Info task started
+[2/9/2020 -- 20:31]  restarted!
+[2/9/2020 -- 20:32]  Scripts ran on main.js
+[2/9/2020 -- 20:32]  restarted!
+[2/9/2020 -- 20:32]  restarted!
+[2/9/2020 -- 20:33]  restarted!
+[2/9/2020 -- 20:34]  Scripts ran on main.js
+[2/9/2020 -- 20:34]  Scripts ran on main.js
+[2/9/2020 -- 20:35]  Scripts ran on main.js
+[2/9/2020 -- 20:35]  Scripts ran on main.js
+[2/9/2020 -- 20:36]  Scripts ran on main.js
+[2/9/2020 -- 20:37]  Scripts ran on main.js
+[2/9/2020 -- 20:38]  restarted!
+[2/9/2020 -- 20:40]  restarted!
+[2/9/2020 -- 20:40]  restarted!
+[2/9/2020 -- 20:41]  Scripts ran on main.js
+[2/9/2020 -- 20:41]  Scripts ran on main.js
+[2/9/2020 -- 20:42]  restarted!
+[2/9/2020 -- 20:42]  restarted!
+[2/9/2020 -- 20:42]  restarted!
+[2/9/2020 -- 20:42]  restarted!
+[2/9/2020 -- 20:43]  restarted!
+[2/9/2020 -- 20:46]  Info task started
+[2/9/2020 -- 20:47]  restarted!
+[2/9/2020 -- 20:47]  restarted!
+[2/9/2020 -- 20:48]  Scripts ran on main.js
+[2/9/2020 -- 20:48]  Scripts ran on main.js
+[2/9/2020 -- 20:50]  restarted!
+[2/9/2020 -- 20:50]  Scripts ran on main.js
+[2/9/2020 -- 20:52]  Scripts ran on main.js
+[2/9/2020 -- 20:53]  restarted!
+[2/9/2020 -- 20:53]  restarted!
+[2/9/2020 -- 20:53]  restarted!
+[2/9/2020 -- 20:54]  restarted!
+[2/9/2020 -- 20:56]  restarted!
+[2/9/2020 -- 20:56]  restarted!
+[2/9/2020 -- 20:57]  restarted!
+[2/9/2020 -- 20:58]  Scripts ran on main.js
+[2/9/2020 -- 20:58]  Scripts ran on main.js
+[2/9/2020 -- 20:59]  Scripts ran on main.js
+[2/9/2020 -- 23:19]  Scripts ran on main.js
+[2/9/2020 -- 23:20]  Scripts ran on main.js
+[2/9/2020 -- 23:21]  Scripts ran on main.js
+[2/9/2020 -- 23:25]  Scripts ran on main.js
+[2/9/2020 -- 23:26]  restarted!
+[2/9/2020 -- 23:29]  restarted!
+[2/9/2020 -- 23:33]  Scripts ran on main.js
+[2/9/2020 -- 23:33]  Scripts ran on main.js
+[2/9/2020 -- 23:34]  Info task started
+[2/9/2020 -- 23:34]  Scripts ran on main.js
+[2/9/2020 -- 23:35]  Scripts ran on main.js
+[2/9/2020 -- 23:35]  Scripts ran on main.js
+[2/9/2020 -- 23:35]  Scripts ran on main.js
+[2/9/2020 -- 23:36]  Scripts ran on main.js
+[2/9/2020 -- 23:38]  Scripts ran on main.js
+[2/9/2020 -- 23:49]  restarted!
+[15/9/2020 -- 17:12]  Info task started
+[15/9/2020 -- 17:14]  Scripts ran on main.js
+[15/9/2020 -- 17:14]  Scripts ran on main.js
+[15/9/2020 -- 17:33]  Info task started
+[15/9/2020 -- 17:38]  restarted!
+[15/9/2020 -- 17:40]  restarted!
+[15/9/2020 -- 17:45]  Info task started
+[15/9/2020 -- 17:45]  restarted!
+[15/9/2020 -- 17:45]  Info task started
+[15/9/2020 -- 17:46]  restarted!
+[15/9/2020 -- 17:46]  restarted!
+[15/9/2020 -- 17:46]  Info task started
+[15/9/2020 -- 17:47]  restarted!
+[15/9/2020 -- 17:48]  restarted!
+[15/9/2020 -- 17:48]  Info task started
+[15/9/2020 -- 17:48]  restarted!
+[15/9/2020 -- 17:48]  Info task started
+[15/9/2020 -- 18:4]  Info task started
+[15/9/2020 -- 18:5]  Info task started
+[15/9/2020 -- 18:7]  Info task started
+[15/9/2020 -- 18:8]  restarted!
+[15/9/2020 -- 18:8]  restarted!
+[15/9/2020 -- 18:10]  restarted!
+[15/9/2020 -- 18:10]  Info task started
+[15/9/2020 -- 18:12]  Info task started
+[15/9/2020 -- 18:13]  Info task started
+[15/9/2020 -- 18:15]  restarted!
+[15/9/2020 -- 18:15]  restarted!
+[15/9/2020 -- 18:15]  restarted!
+[15/9/2020 -- 18:15]  Info task started
+[15/9/2020 -- 18:16]  Info task started
+[15/9/2020 -- 18:17]  Info task started
+[15/9/2020 -- 18:20]  Info task started
+[15/9/2020 -- 18:21]  Info task started
+[15/9/2020 -- 18:22]  Info task started
+[15/9/2020 -- 18:23]  Info task started
+[15/9/2020 -- 18:26]  restarted!
+[15/9/2020 -- 18:27]  Scripts ran on main.js
+[15/9/2020 -- 18:27]  Info task started
+[15/9/2020 -- 18:28]  Scripts ran on main.js
+[15/9/2020 -- 18:29]  Scripts ran on main.js
+[15/9/2020 -- 18:29]  Scripts ran on main.js
+[15/9/2020 -- 18:30]  Scripts ran on main.js
+[15/9/2020 -- 18:31]  Scripts ran on main.js
+[15/9/2020 -- 18:31]  Scripts ran on main.js
+[15/9/2020 -- 18:31]  Scripts ran on main.js
+[15/9/2020 -- 18:31]  Scripts ran on main.js
+[15/9/2020 -- 18:31]  Scripts ran on main.js
+[15/9/2020 -- 18:32]  Scripts ran on main.js
+[15/9/2020 -- 18:33]  Scripts ran on main.js
+[15/9/2020 -- 18:33]  Scripts ran on main.js
+[15/9/2020 -- 18:34]  Scripts ran on main.js
+[15/9/2020 -- 18:34]  Scripts ran on main.js
+[15/9/2020 -- 18:34]  Scripts ran on main.js
+[15/9/2020 -- 18:36]  Scripts ran on main.js
+[15/9/2020 -- 18:37]  Scripts ran on main.js
+[15/9/2020 -- 18:37]  Scripts ran on main.js
+[15/9/2020 -- 18:39]  Scripts ran on main.js
+[15/9/2020 -- 18:39]  Scripts ran on main.js
+[15/9/2020 -- 18:39]  Scripts ran on main.js
+[15/9/2020 -- 18:42]  Scripts ran on main.js
+[15/9/2020 -- 18:42]  Info task started
+[15/9/2020 -- 18:42]  Scripts ran on main.js
+[15/9/2020 -- 18:44]  Scripts ran on main.js
+[15/9/2020 -- 18:44]  Scripts ran on main.js
+[15/9/2020 -- 18:45]  Scripts ran on main.js
+[15/9/2020 -- 18:45]  Scripts ran on main.js
+[15/9/2020 -- 18:45]  Scripts ran on main.js
+[15/9/2020 -- 18:45]  Scripts ran on main.js
+[15/9/2020 -- 18:45]  Scripts ran on main.js
+[15/9/2020 -- 18:46]  Scripts ran on main.js
+[15/9/2020 -- 18:46]  Scripts ran on main.js
+[15/9/2020 -- 18:49]  Scripts ran on main.js
+[15/9/2020 -- 18:50]  Scripts ran on main.js
+[15/9/2020 -- 18:51]  Scripts ran on main.js
+[15/9/2020 -- 18:51]  Scripts ran on main.js
+[15/9/2020 -- 18:52]  Scripts ran on main.js
+[15/9/2020 -- 18:54]  Info task started
+[15/9/2020 -- 18:55]  Info task started
+[15/9/2020 -- 18:55]  Scripts ran on main.js
+[15/9/2020 -- 18:55]  Scripts ran on main.js
+[15/9/2020 -- 18:56]  Scripts ran on main.js
+[15/9/2020 -- 18:56]  Info task started
+[15/9/2020 -- 18:57]  Scripts ran on main.js
+[15/9/2020 -- 18:57]  Scripts ran on main.js
+[15/9/2020 -- 18:58]  Scripts ran on main.js
+[15/9/2020 -- 18:58]  Scripts ran on main.js
+[15/9/2020 -- 18:58]  Scripts ran on main.js
+[15/9/2020 -- 18:58]  Scripts ran on main.js
+[15/9/2020 -- 18:59]  Scripts ran on main.js
+[15/9/2020 -- 18:59]  Scripts ran on main.js
+[15/9/2020 -- 18:59]  Scripts ran on main.js
+[15/9/2020 -- 18:59]  Scripts ran on main.js
+[15/9/2020 -- 18:59]  Scripts ran on main.js
+[15/9/2020 -- 19:0]  restarted!
+[15/9/2020 -- 19:0]  Scripts ran on main.js
+[15/9/2020 -- 19:4]  restarted!
+[15/9/2020 -- 19:5]  restarted!
+[15/9/2020 -- 19:5]  restarted!
+[15/9/2020 -- 19:5]  restarted!
+[15/9/2020 -- 19:5]  restarted!
+[15/9/2020 -- 19:6]  restarted!
+[15/9/2020 -- 19:8]  restarted!
+[15/9/2020 -- 19:8]  restarted!
+[15/9/2020 -- 19:9]  restarted!
+[15/9/2020 -- 19:10]  Info task started
+[15/9/2020 -- 19:11]  Info task started
+[15/9/2020 -- 19:12]  Info task started
+[15/9/2020 -- 19:13]  Info task started
+[15/9/2020 -- 19:14]  Info task started
+[15/9/2020 -- 19:16]  Info task started
+[15/9/2020 -- 19:21]  Scripts ran on main.js
+[15/9/2020 -- 19:21]  Info task started
+[15/9/2020 -- 19:22]  Scripts ran on main.js
+[15/9/2020 -- 19:23]  Scripts ran on main.js
+[15/9/2020 -- 19:23]  Scripts ran on main.js
+[15/9/2020 -- 19:25]  Scripts ran on main.js
+[15/9/2020 -- 19:25]  Scripts ran on main.js
+[15/9/2020 -- 19:25]  Scripts ran on main.js
+[15/9/2020 -- 19:26]  Scripts ran on main.js
+[15/9/2020 -- 19:27]  Scripts ran on main.js
+[15/9/2020 -- 19:27]  Info task started
+[15/9/2020 -- 19:33]  Info task started
+[15/9/2020 -- 19:33]  Scripts ran on main.js
+[15/9/2020 -- 19:34]  Info task started
+[15/9/2020 -- 19:35]  Info task started
+[15/9/2020 -- 19:35]  Scripts ran on main.js
+[15/9/2020 -- 19:36]  Scripts ran on main.js
+[15/9/2020 -- 19:36]  Scripts ran on main.js
+[15/9/2020 -- 19:39]  Scripts ran on main.js
+[15/9/2020 -- 19:39]  Scripts ran on main.js
+[15/9/2020 -- 19:39]  Scripts ran on main.js
+[15/9/2020 -- 19:40]  Scripts ran on main.js
+[15/9/2020 -- 19:47]  Scripts ran on main.js
+[15/9/2020 -- 19:49]  restarted!
+[15/9/2020 -- 19:51]  restarted!
+[16/9/2020 -- 19:2]  Info task started
+[16/9/2020 -- 19:3]  Scripts ran on main.js
+[16/9/2020 -- 19:4]  restarted!
+[16/9/2020 -- 22:11]  Info task started
+[16/9/2020 -- 22:13]  Scripts ran on main.js
+[16/9/2020 -- 22:31]  Scripts ran on main.js
+[16/9/2020 -- 22:31]  Scripts ran on main.js
+[16/9/2020 -- 22:32]  Scripts ran on main.js
+[16/9/2020 -- 22:32]  Info task started
+[16/9/2020 -- 22:32]  Scripts ran on main.js
+[16/9/2020 -- 22:32]  Scripts ran on main.js
+[16/9/2020 -- 22:32]  Scripts ran on main.js
+[16/9/2020 -- 22:33]  Scripts ran on main.js
+[16/9/2020 -- 22:33]  Scripts ran on main.js
+[16/9/2020 -- 22:34]  Info task started
+[16/9/2020 -- 22:34]  Scripts ran on main.js
+[16/9/2020 -- 22:34]  Info task started
+[16/9/2020 -- 22:35]  Scripts ran on main.js
+[16/9/2020 -- 22:35]  Scripts ran on main.js
+[16/9/2020 -- 22:35]  Scripts ran on main.js
+[16/9/2020 -- 22:36]  Scripts ran on main.js
+[16/9/2020 -- 22:36]  Scripts ran on main.js
+[16/9/2020 -- 22:37]  Scripts ran on main.js
+[16/9/2020 -- 22:37]  Scripts ran on main.js
+[16/9/2020 -- 22:37]  Scripts ran on main.js
+[16/9/2020 -- 22:37]  Scripts ran on main.js
+[16/9/2020 -- 22:38]  Scripts ran on main.js
+[16/9/2020 -- 22:39]  Scripts ran on main.js
+[16/9/2020 -- 22:39]  Scripts ran on main.js
+[16/9/2020 -- 22:39]  Scripts ran on main.js
+[16/9/2020 -- 22:39]  Scripts ran on main.js
+[16/9/2020 -- 22:40]  Scripts ran on main.js
+[16/9/2020 -- 22:40]  Scripts ran on main.js
+[16/9/2020 -- 22:40]  Scripts ran on main.js
+[16/9/2020 -- 22:40]  Scripts ran on main.js
+[16/9/2020 -- 22:40]  Scripts ran on main.js
+[16/9/2020 -- 22:47]  Scripts ran on main.js
+[16/9/2020 -- 22:47]  Scripts ran on main.js
+[16/9/2020 -- 22:48]  Scripts ran on main.js
+[16/9/2020 -- 22:48]  Scripts ran on main.js
+[16/9/2020 -- 22:48]  Scripts ran on main.js
+[16/9/2020 -- 22:48]  Scripts ran on main.js
+[16/9/2020 -- 22:51]  Scripts ran on main.js
+[16/9/2020 -- 22:52]  Scripts ran on main.js
+[16/9/2020 -- 23:4]  Sass ran on files
+[16/9/2020 -- 23:16]  Scripts ran on main.js
+[17/9/2020 -- 12:17]  Info task started
+[17/9/2020 -- 12:18]  Scripts ran on main.js
+[17/9/2020 -- 12:27]  Scripts ran on main.js
+[17/9/2020 -- 12:28]  Scripts ran on main.js
+[17/9/2020 -- 12:28]  Scripts ran on main.js
+[17/9/2020 -- 12:29]  Scripts ran on main.js
+[17/9/2020 -- 12:30]  Scripts ran on main.js
+[17/9/2020 -- 12:30]  Scripts ran on main.js
+[17/9/2020 -- 12:32]  Scripts ran on main.js
+[17/9/2020 -- 12:34]  Scripts ran on main.js
+[17/9/2020 -- 12:34]  Scripts ran on main.js
+[17/9/2020 -- 12:35]  Scripts ran on main.js
+[17/9/2020 -- 12:35]  Scripts ran on main.js
+[17/9/2020 -- 12:35]  Scripts ran on main.js
+[17/9/2020 -- 12:40]  Scripts ran on main.js
+[17/9/2020 -- 12:41]  Scripts ran on main.js
+[17/9/2020 -- 12:43]  Scripts ran on main.js
+[17/9/2020 -- 12:47]  Scripts ran on main.js
+[17/9/2020 -- 12:50]  Scripts ran on main.js
+[17/9/2020 -- 12:52]  Scripts ran on main.js
+[17/9/2020 -- 12:53]  Scripts ran on main.js
+[17/9/2020 -- 12:53]  Scripts ran on main.js
+[17/9/2020 -- 12:55]  Scripts ran on main.js
+[17/9/2020 -- 12:55]  Scripts ran on main.js
+[17/9/2020 -- 12:56]  Scripts ran on main.js
+[17/9/2020 -- 12:57]  Scripts ran on main.js
+[17/9/2020 -- 12:57]  Scripts ran on main.js
+[17/9/2020 -- 12:58]  Scripts ran on main.js
+[17/9/2020 -- 12:58]  Scripts ran on main.js
+[17/9/2020 -- 13:2]  Scripts ran on main.js
+[17/9/2020 -- 13:2]  Scripts ran on main.js
+[17/9/2020 -- 13:2]  Scripts ran on main.js
+[17/9/2020 -- 13:5]  Sass ran on files
+[17/9/2020 -- 13:5]  Sass ran on files
+[17/9/2020 -- 13:9]  Sass ran on files
+[17/9/2020 -- 13:9]  Sass ran on files
+[17/9/2020 -- 13:11]  Sass ran on files
+[17/9/2020 -- 13:12]  Sass ran on files
+[17/9/2020 -- 13:13]  Sass ran on files
+[17/9/2020 -- 13:13]  Sass ran on files
+[17/9/2020 -- 13:14]  Sass ran on files
+[17/9/2020 -- 13:15]  Sass ran on files
+[17/9/2020 -- 13:15]  Sass ran on files
+[17/9/2020 -- 13:15]  Sass ran on files
+[17/9/2020 -- 13:16]  Sass ran on files
+[17/9/2020 -- 13:17]  Sass ran on files
+[17/9/2020 -- 13:18]  Sass ran on files
+[17/9/2020 -- 13:18]  Sass ran on files
+[17/9/2020 -- 13:19]  Sass ran on files
+[17/9/2020 -- 13:20]  Sass ran on files
+[17/9/2020 -- 13:20]  Sass ran on files
+[17/9/2020 -- 13:20]  Scripts ran on main.js
+[17/9/2020 -- 13:21]  Scripts ran on main.js
+[17/9/2020 -- 13:22]  Sass ran on files
+[17/9/2020 -- 13:22]  Scripts ran on main.js
+[17/9/2020 -- 13:23]  Scripts ran on main.js
+[17/9/2020 -- 13:23]  Scripts ran on main.js
+[17/9/2020 -- 13:24]  Scripts ran on main.js
+[17/9/2020 -- 13:27]  Info task started
+[17/9/2020 -- 17:28]  Info task started
